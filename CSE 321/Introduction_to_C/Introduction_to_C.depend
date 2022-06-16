@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1655366103 source:d:\office\summer 2022\cse 321\lab-01\testlearn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1655227720 source:d:\office\summer 2022\cse 321\lab-01\testlearn\introduction to data types and printing.c
+
+1655141139 source:d:\office\summer 2022\cse 321\lab-01\testlearn\src\gbf.cpp
+	"gbf.h"
+
+1655141139 d:\office\summer 2022\cse 321\lab-01\testlearn\include\gbf.h
+
+1655227720 source:d:\office\summer 2022\cse 321\lab-01\introduction_to_c\introduction to data types and printing.c
+
+1655366103 source:d:\office\summer 2022\cse 321\lab-01\introduction_to_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1655141139 source:d:\office\summer 2022\cse 321\lab-01\introduction_to_c\src\gbf.cpp
+	"gbf.h"
+
+1655141139 d:\office\summer 2022\cse 321\lab-01\introduction_to_c\include\gbf.h
+
